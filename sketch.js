@@ -14,7 +14,7 @@ function preload(){
   
   burn = loadAnimation("burn_out.PNG");
   
-  boyImg = loadAnimation("boy1.PNG", "boy2.PNG", "boy3.PNG", "boy4.PNG", "boy5.PNG");
+  boyImg = loadAnimation("boy1.png", "boy2.png", "boy3.png", "boy4.png", "boy5.png");
   
   ob1 = loadImage("obstacle1.png");
   ob2 = loadImage("obstacle2.png");
